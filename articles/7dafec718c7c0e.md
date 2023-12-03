@@ -6,10 +6,7 @@ topics: ["uec", "archlinux"]
 published: false
 ---
 
-この記事は、[UEC Advent Calendar 2023](https://adventar.org/calendars/8698)の 4 日目です。
 3 日目は suzuke さんの記事でした。
-
-https://suzuke.hateblo.jp/entry/darkadventsouls2023
 
 ダークソウル 3 のお話でしたね。クッソ難しいというのを読んでいて、なんか vim のカスタマイズをしてるときを思い出してしまいました。（現在進行系でプラグインマネージャーを入れるだけで苦戦しまくってる人です）
 
@@ -17,7 +14,7 @@ https://suzuke.hateblo.jp/entry/darkadventsouls2023
 
 #### 自己紹介
 
-みみです。普段は開発して破産して歩いています。
+みみです。普段は開発して破産して歩いています。（電通大では散財のことを破産と呼ぶらしい）
 ウェブの技術を触っており、最近は Next に破壊されてます。バイトもコードを書くお仕事をやらせてもらってるので授業があるとき以外、だいたいパソコンを触ってる人ですね。
 
 ## 導入
